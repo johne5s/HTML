@@ -1,10 +1,21 @@
-.inner-container {
-    max-width: 1170px;
-    margin: 0 auto;
+body{
+    background-color: lightgray;
+}
+
+nav {
+    background-color: slategray;
+    padding-top: 1pt;
+    padding-bottom: 1pt;
 }
 
 img {
     max-width: 100%;
+}
+
+/*CLASSs*/
+.inner-container {
+    max-width: 1170px;
+    margin: 0 auto;
 }
 
 .row {
@@ -24,6 +35,18 @@ img {
     width: 66.6666%;
 }
 
-nav {
-    background-color: aqua;
+.text-centered{
+    text-align: center;
 }
+
+.addspace{
+    padding-left: 5pt;
+}
+
+/*IDs*/
+#main-content{
+    background-color: slategray;
+}
+
+
+
