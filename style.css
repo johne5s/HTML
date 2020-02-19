@@ -23,3 +23,7 @@ img {
 .col-2-3 {
     width: 66.6666%;
 }
+
+nav {
+    background-color: aqua;
+}
