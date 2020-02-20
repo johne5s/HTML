@@ -46,8 +46,29 @@ img {
 
 /*IDs*/
 #main-content{
-    background-color: slategray;
+    /*background-color: slategray;*/
+    background-color: whitesmoke;
 }
 
+/********************
+  Contents
+********************/
 
-
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  canvas#canvasThunder {
+    z-index: -3;
+    background: #131041;
+  }
+  
+  canvas#canvasCloud {
+    z-index: -2;
+  }
+  
+  canvas#canvasRain {
+    z-index: -1;
+  }
