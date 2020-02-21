@@ -2,12 +2,6 @@ body{
     background-color: lightgray;
 }
 
-nav {
-    background-color: slategray;
-    padding-top: 1pt;
-    padding-bottom: 1pt;
-}
-
 img {
     max-width: 100%;
 }
@@ -37,11 +31,6 @@ img {
 
 .text-centered{
     text-align: center;
-}
-
-.addspace{
-    padding-left: 5pt;
-    padding-right: 5pt;
 }
 
 /*IDs*/

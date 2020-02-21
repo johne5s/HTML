@@ -1,0 +1,17 @@
+nav {
+    background-color: slategray;
+    overflow: clip;
+    padding: 14px 16px;
+}
+
+nav a {
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+nav a:hover {
+    background-color: whitesmoke;
+    color: black;
+}
