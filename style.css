@@ -1,6 +1,12 @@
 body{
     background-color: lightgray;
     font-family: 'Tomorrow';
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+section{
+    background-color: slategray;
 }
 
 img {
@@ -16,6 +22,10 @@ img {
 .row {
     display: flex;
     flex-wrap: wrap;
+}
+
+.col-1-1 {
+    width: 100%;
 }
 
 .col-1-2 {
