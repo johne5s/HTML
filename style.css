@@ -3,6 +3,9 @@ body{
     font-family: 'Tomorrow';
     max-width: 1500px;
     margin: 0 auto;
+    background-image: url("cloud_02.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 section{
