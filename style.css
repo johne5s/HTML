@@ -1,11 +1,12 @@
 body{
-    background-color: lightgray;
+    background-color: #364b71;
     font-family: 'Tomorrow';
     max-width: 1500px;
     margin: 0 auto;
-    background-image: url("cloud_02.png");
+    background-image: url("images/cloud.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
 }
 
 section{
@@ -45,6 +46,10 @@ img {
 
 .text-centered{
     text-align: center;
+}
+
+.align-right{
+    text-align: right;
 }
 
 /*IDs*/
